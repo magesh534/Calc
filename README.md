@@ -120,6 +120,8 @@ function clearDisplay()
 ```
 
 ## OUTPUT:
+![Screenshot 2024-05-13 122553](https://github.com/magesh534/Calc/assets/135577936/a215108d-0204-4637-87fa-35f8872af127)
+
 ![Screenshot 2024-05-13 121807](https://github.com/magesh534/Calc/assets/135577936/62f624f5-c7a6-4555-b31b-e920d327ad03)
 
 ## RESULT:
